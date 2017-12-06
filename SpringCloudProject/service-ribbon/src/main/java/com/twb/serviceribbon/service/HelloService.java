@@ -18,4 +18,3 @@ public class HelloService {
         return "hi,"+name+",sorry,error!";
     }
 }
-
